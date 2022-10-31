@@ -80,7 +80,7 @@
     - [ ] Agro workflows and Tasks has lots of inbuilt features 
     - [ ] Agro seems a first choice for EKS, as advertized by many companies
 
-- [ ] $\textcolor{orange}{Basics Of Kubernetes$
+- [ ] $\textcolor{orange}{Basics Of Kubernetes}$
   - [ ] [Title - How the Basics Of Kubernetes Auth Scale For Organizations](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/)
   - [ ] Basics of Kubernetes Auth Scale For Organizations
   - [ ] Roles have a list of rules , roles lives in namespace
